@@ -8,7 +8,7 @@ const messageRoutes = require("./routes/messageRoutes");
 const { notFound, errorHandler } = require("./middleware/errorMiddleware");
 const boardRoutes = require("./routes/boardRoutes");
 const noteRoutes = require("./routes/notesRoutes");
-
+const path = require("path");
 //process.env.DEBUG = "socket.io:*";
 
 dotenv.config();
