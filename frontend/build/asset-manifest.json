@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d89a44b2.css",
+    "main.js": "/static/js/main.6750728f.js",
+    "static/media/milad-fakurian-nY14Fs8pxT8-unsplash.jpg": "/static/media/milad-fakurian-nY14Fs8pxT8-unsplash.d181957182738206d40c.jpg",
+    "index.html": "/index.html",
+    "main.d89a44b2.css.map": "/static/css/main.d89a44b2.css.map",
+    "main.6750728f.js.map": "/static/js/main.6750728f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d89a44b2.css",
+    "static/js/main.6750728f.js"
+  ]
+}
