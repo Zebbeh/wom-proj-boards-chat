@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d89a44b2.css",
-    "main.js": "/static/js/main.6750728f.js",
-    "static/media/milad-fakurian-nY14Fs8pxT8-unsplash.jpg": "/static/media/milad-fakurian-nY14Fs8pxT8-unsplash.d181957182738206d40c.jpg",
+    "main.css": "/static/css/main.a81c1006.chunk.css",
+    "main.js": "/static/js/main.d48497e1.chunk.js",
+    "main.js.map": "/static/js/main.d48497e1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6adcdd8c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6adcdd8c.js.map",
+    "static/js/2.cecfb191.chunk.js": "/static/js/2.cecfb191.chunk.js",
+    "static/js/2.cecfb191.chunk.js.map": "/static/js/2.cecfb191.chunk.js.map",
     "index.html": "/index.html",
-    "main.d89a44b2.css.map": "/static/css/main.d89a44b2.css.map",
-    "main.6750728f.js.map": "/static/js/main.6750728f.js.map"
+    "static/css/main.a81c1006.chunk.css.map": "/static/css/main.a81c1006.chunk.css.map",
+    "static/js/2.cecfb191.chunk.js.LICENSE.txt": "/static/js/2.cecfb191.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/milad-fakurian-nY14Fs8pxT8-unsplash.d1819571.jpg"
   },
   "entrypoints": [
-    "static/css/main.d89a44b2.css",
-    "static/js/main.6750728f.js"
+    "static/js/runtime-main.6adcdd8c.js",
+    "static/js/2.cecfb191.chunk.js",
+    "static/css/main.a81c1006.chunk.css",
+    "static/js/main.d48497e1.chunk.js"
   ]
 }
